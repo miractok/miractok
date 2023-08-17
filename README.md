@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="140" src="[https://media.tenor.com/upJ3gIp2uPcAAAAd/sinanengin-sinanenginlaugh.gif](https://media.tenor.com/upJ3gIp2uPcAAAAd/sinanengin-sinanenginlaugh.gif)"  />
+  <img height="140" src="https://media.tenor.com/upJ3gIp2uPcAAAAd/sinanengin-sinanenginlaugh.gif"  />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/mirac-nurullah-tok/" width="52" height="40" alt="[linkedin logo]" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="https://www.linkedin.com/in/mirac-nurullah-tok/"  />
 </div>
 
 ###
