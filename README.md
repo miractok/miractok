@@ -1,4 +1,4 @@
-<p align="left">Merhabalar, buralar değerlenecek !</p>
+<p align="left">Merhaba !</p>
 
 ###
 
